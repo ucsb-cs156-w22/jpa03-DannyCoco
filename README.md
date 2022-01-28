@@ -1,6 +1,10 @@
 [![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-DannyCoco/branch/main/graph/badge.svg?token=Xk6zoaXVXE)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-DannyCoco)
 # jpa03-DannyCoco
 
+- link to jpa03 repo: https://github.com//ucsb-cs156-w22/jpa03-DannyCoco
+- linke to doc repo: https://github.com//ucsb-cs156-w22/jpa03-DannyCoco-docs
+- link to qa repo: https://github.com//ucsb-cs156-w22/jpa03-DannyCoco-docs-qa
+
 Storybook is here:
 
 - Production: <https://ucsb-cs156-w22.github.io/jpa03-DannyCoco-docs/storybook>
