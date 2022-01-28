@@ -1,4 +1,5 @@
-# demo-spring-react-example: dsre
+[![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-DannyCoco/branch/main/graph/badge.svg?token=Xk6zoaXVXE)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-DannyCoco)
+# jpa03-DannyCoco
 
 Storybook is here:
 
